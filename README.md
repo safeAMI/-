@@ -16,3 +16,5 @@
 **我是鱼非愚，和你一样，找工作的的年轻人！**
 
 ![image](https://github.com/safeAMI/Dynamic-Program/blob/main/images/WeChat.jpg)
+
+*小提示：github上如果图片加载不出来，可能需要外网*
