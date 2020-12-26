@@ -15,4 +15,4 @@
 
 **我是鱼非愚，和你一样，找工作的的年轻人！**
 
-![image](https://img-blog.csdnimg.cn/20201226162008697.jpg)
+![image](https://github.com/safeAMI/Dynamic-Program/blob/main/images/WeChat.jpg)
